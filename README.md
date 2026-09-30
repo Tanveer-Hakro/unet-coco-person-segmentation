@@ -152,7 +152,3 @@ The trained model, checkpoints, large datasets, generated masks, and inference a
 
 - Ronneberger, O., Fischer, P., & Brox, T. (2015). **U-Net: Convolutional Networks for Biomedical Image Segmentation.** https://arxiv.org/abs/1505.04597
 - Lin, T.-Y. et al. (2014). **Microsoft COCO: Common Objects in Context.** https://arxiv.org/abs/1405.0312
-
-## Notes
-
-This repository contains the implementation notebook and selected project visualizations only. The full project report, institutional information, student identifiers, and other personal information are intentionally excluded.
